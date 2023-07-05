@@ -32,7 +32,3 @@
 
 - https://cow-hut.onrender.com/api/v1/orders (POST)
 - https://cow-hut.onrender.com/api/v1/orders (GET)
-
-# digital-cow-hut
-# l2b1a4-cow-hut-admin-auth-MdTasib
-# cow-hat-auth
