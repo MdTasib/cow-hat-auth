@@ -2,7 +2,7 @@ import { PaginationHelper } from "./../../../helpers/paginationHelper";
 import { SortOrder } from "mongoose";
 import { IGenericResponse } from "../../../interfaces/common";
 import { IPaginationOptions } from "../../../interfaces/pagination";
-import { CowFilterableFields, CowSearchableFields } from "./cow.constant";
+import { CowSearchableFields } from "./cow.constant";
 import { ICow, ICowFilters } from "./cow.interface";
 import { Cow } from "./cow.model";
 
