@@ -2,9 +2,6 @@
 	"name": "mongoose-assignment-3",
 	"version": "1.0.0",
 	"description": "",
-	"engines": {
-		"node": ">=16"
-	},
 	"scripts": {
 		"dev": "ts-node-dev --respawn --transpile-only src/server.ts",
 		"start": "node dist/server.js",
