@@ -9,7 +9,6 @@ import handleValidationError from "../../errors/handleValidationError";
 import { ZodError } from "zod";
 import handleZodError from "../../errors/handleZodError";
 import { IGenericErrorMessage } from "../../interfaces/error";
-import { errorLogger } from "../../shared/logger";
 import handleCastError from "../../errors/handleCastError";
 
 const globalErrorHandler: ErrorRequestHandler = (
